@@ -15,3 +15,11 @@
 - 📫 How to reach me: chandelier0207@gmail.com
 
 - ⚡ Fun fact: Badminton, Reading, Traveling 
+
+## Wanna see my blogs
+
+- [MANOVA: More Comprehensive Insight from the Data](https://medium.com/@blackteapanda/manova-more-comprehensive-insight-from-the-data-5e56e02910a)
+
+- [Regression to Mediocrity](https://medium.com/@blackteapanda/regression-to-mediocrity-32c3c71f20b2)
+
+- [Introduction to Splines](https://medium.com/@blackteapanda/introduction-to-splines-b8a559e5592f)
