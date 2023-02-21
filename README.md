@@ -12,8 +12,6 @@
 
 - 💬 Ask me about topics associated with statistics
 
-- 📄 Know about my work & experiences 
-
 - 📫 How to reach me: chandelier0207@gmail.com
 
 - ⚡ Fun fact: Badminton, Reading, Traveling 
