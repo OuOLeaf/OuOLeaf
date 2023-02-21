@@ -12,7 +12,7 @@
 
 - 💬 Ask me about topics associated with statistics
 
-- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/MrAnkitGupta)
+- 📄 Know about my work & experiences 
 
 - 📫 How to reach me: chandelier0207@gmail.com
 
