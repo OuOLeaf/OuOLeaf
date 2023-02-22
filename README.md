@@ -1,7 +1,7 @@
 <h3 align="center"> A student with a passion for statistics and data science. </h3>
 
 <!-- comes from msgif -->
-<p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true" width="400" height="300"/></p>
+<p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
 ### About me
 
