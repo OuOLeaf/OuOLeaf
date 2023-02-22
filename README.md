@@ -1,6 +1,6 @@
 <h3 align="center"> A student with a passion for statistics and data science. </h3>
 
-<!--> comes from msgif <-->
+<!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/introduction.gif?raw=true" width="400" height="300"/></p>
 
 ### About me
