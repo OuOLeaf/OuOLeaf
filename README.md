@@ -9,7 +9,7 @@
 
 - 👨‍💻 Statistics master in Rice University and undergraduate in National Taipei University
 
-- 🔭 Internships in research assistant and system developer
+- 🔭 Internships in research assistant, data anaylst, and data scientist
 
 - 🛩️ Exploring Data Science, Deep Learning & Artificial Intelligence 
 
