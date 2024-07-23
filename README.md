@@ -7,7 +7,7 @@
 
 ### About me
 
-- 👨‍💻 Statistics major in National Taipei University, Taiwan
+- 👨‍💻 Statistics master in Rice University and undergraduate in National Taipei University
 
 - 🔭 Internships in research assistant and system developer
 
