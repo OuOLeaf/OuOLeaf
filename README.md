@@ -7,9 +7,9 @@
 
 ### About me
 
-- 👨‍💻 Statistics master in Rice University and undergraduate in National Taipei University
+- 👨‍💻 Statistics master atin Rice University
 
-- 🔭 Internships in research assistant, data anaylst, and data scientist
+- 🔭 Work as data scientis, data anaylst, research assistant
 
 - 🛩️ Exploring Data Science, Deep Learning & Artificial Intelligence 
 
@@ -17,14 +17,7 @@
 
 - 💬 Ask me about topics associated with statistics
 
-- 📫 How to reach me: chandelier0207@gmail.com
+- 📫 How to reach me: yy152@rice.edu
 
 - ⚡ Fun fact: Badminton, Reading, Traveling 
 
-## Wanna see my blogs
-
-- [MANOVA: More Comprehensive Insight from the Data](https://medium.com/@blackteapanda/manova-more-comprehensive-insight-from-the-data-5e56e02910a)
-
-- [Regression to Mediocrity](https://medium.com/@blackteapanda/regression-to-mediocrity-32c3c71f20b2)
-
-- [Introduction to Splines](https://medium.com/@blackteapanda/introduction-to-splines-b8a559e5592f)
