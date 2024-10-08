@@ -23,7 +23,10 @@
 
 ## My project
  - [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
-  
+   Interesting stock simulation (Random Walk, Regular Saving Plan) as insights of future investment
+   
  - [Test Equalization System](https://github.com/OuOLeaf/Test-Equalization)
-  
+   Determine reasonable and fair criteria for test with changing difficulty
+   
  - [Webscrap Labeling Technique](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
+   Label items from eshops' classfication without categorized them by eyes.
