@@ -21,3 +21,7 @@
 
 - ⚡ Fun fact: Badminton, Reading, Traveling 
 
+## My project
+ - [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
+ - [Test Equalization System](https://github.com/OuOLeaf/Test-Equalization)
+ - [Webscrap Labeling Technique](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
