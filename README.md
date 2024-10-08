@@ -7,13 +7,11 @@
 
 ### About me
 
-- 👨‍💻 Statistics master atin Rice University
+- 👨‍💻 Statistics master at Rice University
 
 - 🔭 Work as data scientis, data anaylst, research assistant
 
 - 🛩️ Exploring Data Science, Deep Learning & Artificial Intelligence 
-
-- 📝 Sometimes I write articles on [Medium](https://medium.com/@blackteapanda)
 
 - 💬 Ask me about topics associated with statistics
 
