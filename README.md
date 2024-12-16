@@ -3,7 +3,6 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
-<h3 align="center"> A student with a passion for statistics and data science. </h3>
 
 ### About me
 Hi! I'm Yu-Ting. 
