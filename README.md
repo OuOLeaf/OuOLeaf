@@ -3,6 +3,10 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
+We all have data, but it's hard to utilize data to solve problems precisely.
+
+Experienced in data scientist and statistical training, I could help make data tell the truth.
+
 ## My project
 
 Take a look at my projects and reach out to me!
@@ -25,11 +29,11 @@ Take a look at my projects and reach out to me!
 
 - 🔭 Worked as data scientist
  
-- Currently research assistant at Rice University
+- 🤓 Current research assistant at Rice University
 
-- 🛩️ Exploring Data Science, Statistics, Machine Learning (Now I am studying image process)
+- 🛩️ Exploring Data Science, Statistics, Machine Learning (Now Researching on Image Processing)
 
-- 📫 How to reach me: yy152@rice.edu
+- 📫 How to reach out to me: yy152@rice.edu
 
 - ⚡ Hobby: Badminton, Reading, Workout, Gaming 
 
