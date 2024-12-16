@@ -3,7 +3,7 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
-We all have data, but it's hard to utilize data to solve problems precisely.
+Data is everywhere, but few people are skilled at using data to answer questions precisely.
 
 Experienced in data scientist and statistical training, I could help make data tell the truth.
 
