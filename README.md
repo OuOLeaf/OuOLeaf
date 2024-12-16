@@ -3,8 +3,6 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
-Happy to see you. 
-
 ## My project
 
 Take a look at my projects and reach out to me!
@@ -25,11 +23,11 @@ Take a look at my projects and reach out to me!
 
 - 👨‍💻 Master at Rice University, Houston, TX
 
-- 🔭 Work as data scientis, data anaylst, research assistant
+- 🔭 Worked as data scientist
+ 
+- Currently research assistant at Rice University
 
 - 🛩️ Exploring Data Science, Statistics, Machine Learning (Now I am studying image process)
-
-- 💬 Ask me: Everything
 
 - 📫 How to reach me: yy152@rice.edu
 
