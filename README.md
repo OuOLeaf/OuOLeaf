@@ -5,7 +5,7 @@
 
 Data is everywhere, but few people are skilled at using data to precisely answer questions.
 
-Experienced in data scientist and statistical training, I could help make data tell the truth.
+Experience in data scientist and statistical training, I could help make data tell the truth.
 
 ## See my past work
 
