@@ -7,7 +7,7 @@ We all have data, but it's hard to utilize data to solve problems precisely.
 
 Experienced in data scientist and statistical training, I could help make data tell the truth.
 
-## My project
+## See my past work
 
 Take a look at my projects and reach out to me!
 
