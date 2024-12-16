@@ -6,18 +6,21 @@
 <h3 align="center"> A student with a passion for statistics and data science. </h3>
 
 ### About me
+Hi! I'm Yu-Ting. 
+Happy to see you. 
+Take a look at my projects and reach out to me!
 
-- 👨‍💻 Statistics master at Rice University
+- 👨‍💻 Master at Rice University, Houston, TX
 
 - 🔭 Work as data scientis, data anaylst, research assistant
 
-- 🛩️ Exploring Data Science, Deep Learning & Artificial Intelligence 
+- 🛩️ Exploring Data Science, Statistics, Machine Learning (Now I am studying image process)
 
-- 💬 Ask me about topics associated with statistics
+- 💬 Ask me: Everything
 
 - 📫 How to reach me: yy152@rice.edu
 
-- ⚡ Fun fact: Badminton, Reading, Traveling 
+- ⚡ Hobby: Badminton, Reading, Workout, Gaming 
 
 ## My project
  - [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
