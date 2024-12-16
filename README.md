@@ -3,8 +3,6 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
-Hi! I'm Yu-Ting. 
-
 Happy to see you. 
 
 ## My project
