@@ -24,7 +24,7 @@
    
 ## About me
 
-- 👨‍💻 Master at Rice University, Houston, TX (Now, I'm in Houston.😆)
+- 👨‍💻 Master at Rice University, Houston, TX (I'm in Houston.😆)
 
 - 🔭 Worked as data scientist in TABF, research assistant in NTPU
  
