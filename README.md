@@ -9,16 +9,17 @@
 
 ## Projects
 
- - In the summer 2024, to create my robust investment profolio, I build a backtesting website for stock investment ...
+ - [Stockaroo](https://stockaroo-web.streamlit.app/)
 
-   [Stockaroo](https://stockaroo-web.streamlit.app/)
+   To create my robust investment profolio, I built a backtesting website for stock investment...
 
-   Interesting stock simulation (Random Walk, Regular Saving Plan) as insights of future investment
-   
-[Test Equalization System](https://github.com/OuOLeaf/Test-Equalization)
+ - [Test Equalization Application](https://github.com/OuOLeaf/Test-Equalization)
 
-   
-[Webscrap Labeling Technique](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
+   As a data scientist in TABF before, I created a dashboard with IRT method to help determine passing criteria between tests...
+ 
+- [Webscrap Labeling](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
+
+  Before retrieving insights from invoice data, I utilized webscraping and parallel systems techniques to automatically label items from online shops...
 
    
 ### About me
