@@ -9,9 +9,9 @@
 
 ## Projects
 
- - In the summer 2024, to create my robust investment profolio, I build a stock investment backtesting website ...
+ - In the summer 2024, to create my robust investment profolio, I build a backtesting website for stock investment ...
 
-   [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
+   [Stockaroo](https://stockaroo-web.streamlit.app/)
 
    Interesting stock simulation (Random Walk, Regular Saving Plan) as insights of future investment
    
