@@ -23,7 +23,7 @@
  
 - [Webscrap Labeling](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
 
-  Before retrieving insights from invoice data, I utilized webscraping and parallel systems techniques for automatically labeling from online shops...
+  In my invoice data, I utilized webscraping and parallel systems techniques for automatically labeling from online shops...
 
    
 ## About me
