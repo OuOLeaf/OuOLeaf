@@ -22,15 +22,15 @@
   Before retrieving insights from invoice data, I utilized webscraping and parallel systems techniques to automatically label items from online shops...
 
    
-### About me
+## About me
 
-- 👨‍💻 Master at Rice University, Houston, TX
+- 👨‍💻 Master at Rice University, Houston, TX (Now, I'm in Houston.😆)
 
-- 🔭 Worked as data scientist
+- 🔭 Worked as data scientist in TABF, research assistant in NTPU
  
-- 🤓 Current research assistant at Rice University
+- 🤓 Current research assistant at Rice University, U.S.
 
-- 🛩️ Exploring Data Science, Statistics, Machine Learning (Now Researching on Image Processing)
+- 🛩️ Exploring Data Science, Statistics, Machine Learning
 
 - 📫 How to reach out to me: yy152@rice.edu
 
