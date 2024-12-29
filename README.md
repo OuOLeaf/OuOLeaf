@@ -9,6 +9,10 @@
 
 ## Projects
 
+ - [Houston Crime Map](https://github.com/OuOLeaf/Bayesian-Crime-Map)
+
+   Moving to Houston this year, I drew a crime map to get to know here... 
+   
  - [Stockaroo](https://stockaroo-web.streamlit.app/)
 
    To create my robust investment profolio, I built a backtesting website for stock investment...
@@ -19,7 +23,7 @@
  
 - [Webscrap Labeling](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
 
-  Before retrieving insights from invoice data, I utilized webscraping and parallel systems techniques to automatically label items from online shops...
+  Before retrieving insights from invoice data, I utilized webscraping and parallel systems techniques for automatically labeling from online shops...
 
    
 ## About me
