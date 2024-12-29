@@ -3,25 +3,22 @@
 <!-- comes from msgif -->
 <p align="center"><img src="https://github.com/OuOLeaf/OuOLeaf/blob/main/readme-gif/introduction.gif?raw=true"></p>
 
-Data is everywhere, but few people are skilled at using data to precisely answer questions.
+<p align="center">I love using data to solve problems, or trying something interesting tools.</p>
 
-Experience in data scientist and statistical training, I could help make data tell the truth.
+<p align="center">You can learn what I learn recently.😄</p>
 
-## See my past work
+## Projects
 
-Take a look at my projects and reach out to me!
-
- - [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
+ - In the summer 2024, to create my robust investment profolio, I build a stock investment backtesting website ...
+   [Stockaroo: Stock Backtesting 🔥](https://stockaroo-web.streamlit.app/)
 
    Interesting stock simulation (Random Walk, Regular Saving Plan) as insights of future investment
    
- - [Test Equalization System](https://github.com/OuOLeaf/Test-Equalization)
+[Test Equalization System](https://github.com/OuOLeaf/Test-Equalization)
 
-   Determine reasonable and fair criteria for test with changing difficulty
    
- - [Webscrap Labeling Technique](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
+[Webscrap Labeling Technique](https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis)
 
-   Label items from eshops' classfication without categorized them by eyes.
    
 ### About me
 
