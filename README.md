@@ -26,14 +26,18 @@
 
 - 👨‍💻 Master at Rice University, Houston, TX (I'm in Houston.😆)
 
-- 🔭 Worked as data scientist in TABF, research assistant in NTPU
- 
 - 🤓 Current research assistant at Rice University, U.S.
+
+- 🔭 Worked as data scientist in TABF, research assistant in NTPU
 
 - 🛩️ Exploring Data Science, Statistics, Machine Learning
 
-- 📫 How to reach out to me: yy152@rice.edu
+- ⚡ Hobby: Badminton, Reading, Workout, Gaming
 
-- ⚡ Hobby: Badminton, Reading, Workout, Gaming 
+## Find me
+
+- Feel free to reach out to me. 🐱
+
+  yy152@rice.edu
 
 
