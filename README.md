@@ -11,7 +11,7 @@
 
  - [Houston Crime Map](https://github.com/OuOLeaf/Bayesian-Crime-Map)
 
-   Moving to Houston this year, I drew a crime map to get to know here... 
+   Moving to Houston this year, I knew Houston crime status by drawing crime heatmap under bayesian setting... 
    
  - [Stockaroo](https://stockaroo-web.streamlit.app/)
 
